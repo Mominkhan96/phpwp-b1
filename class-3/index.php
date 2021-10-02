@@ -39,11 +39,13 @@ $string = str_replace(array('_', '~', '@', '-'), ',', $string);
 
 $str_for_len = 'Im good';
 
-//echo "<pre>"; print_r( $str_for_len ); echo "</pre>";
-//
-//echo "<pre>";
-//print_r(strlen($str_for_len));
-//echo "</pre>";
+echo "<pre>";
+print_r($str_for_len);
+echo "</pre>";
+
+echo "<pre>";
+print_r(strlen($str_for_len));
+echo "</pre>";
 
 
 // stripos()
@@ -61,6 +63,18 @@ $string = 'He is a Bangladeshi but good at PHP.';
 //echo "<pre>";
 //var_dump(stripos($string, 'goods'));
 //echo "</pre>";
+
+// if( $a === $b ) or if( $a == $b )
+
+/**
+ * 2
+ * '2'
+ *
+ * ==
+ *
+ * ===
+ */
+
 
 if (stripos($string, 'Indian') !== false) {
     echo 'Yes, He is an Indian!';

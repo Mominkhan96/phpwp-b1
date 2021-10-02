@@ -1,0 +1,19 @@
+
+
+1. Find how many times Bangladesh is using in data-1.txt file.
+
+2. Given String: "I'm good at English"
+
+Task: Break down the words into following way:
+array(
+    0 => I'm
+    1 => Better
+    2 => At
+    3 => ENGLISH
+)
+
+3. Replace 'Nepal', 'Bhutan', 'China' and 'Siliguri' by 'Japan', 'Turkey', 'USA', 'USA' respectively. Given data from data-1.txt
+
+4. Write a function to calculate the length of any string and use it to calculate the total length of string from data-1.txt file.
+
+5. Calculate how many lines are there in the string from data-1.txt file.
