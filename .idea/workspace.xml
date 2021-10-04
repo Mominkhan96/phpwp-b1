@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f362f050-ebc9-48b7-9b8a-63ba4a13c9f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/class-4/solutions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-5/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +12,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="DrupalConfiguration">
+    <drupalPath />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,6 +26,15 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="JoomlaConfiguration">
+    <joomlaConfigPath />
+    <joomlaPath />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../wpriders/projects/mixed" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1yqlQKELECOh3JBrk6FphZ5Hi0p" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -42,13 +54,14 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/class-4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/class-4" />
     </key>
   </component>
@@ -63,7 +76,8 @@
       <workItem from="1632986987197" duration="6273000" />
       <workItem from="1633100227887" duration="2725000" />
       <workItem from="1633113426492" duration="558000" />
-      <workItem from="1633151836737" duration="7335000" />
+      <workItem from="1633151836737" duration="7605000" />
+      <workItem from="1633327874060" duration="7454000" />
     </task>
     <servers />
   </component>
@@ -80,5 +94,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>$PROJECT_DIR$/../../wpriders/projects/mixed</wordpressPath>
   </component>
 </project>
