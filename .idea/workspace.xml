@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f362f050-ebc9-48b7-9b8a-63ba4a13c9f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/class-6/hw.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-6/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-7/alamgir.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-7/golap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-7/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-7/masum.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-7/motaleb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-7/solutions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class-6/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/class-6/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +85,8 @@
       <workItem from="1633151836737" duration="7605000" />
       <workItem from="1633327874060" duration="8071000" />
       <workItem from="1633442489746" duration="3000" />
-      <workItem from="1633588726738" duration="4390000" />
+      <workItem from="1633588726738" duration="4855000" />
+      <workItem from="1633933908295" duration="3723000" />
     </task>
     <servers />
   </component>

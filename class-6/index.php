@@ -6,31 +6,31 @@
  */
 
 /*
- * array_key_exists()
+ * array_key_exists() - done
  * array_keys() - done
  * array_map()
  * array_merge() - done
  * array_pop() - done
  * array_push() - done
  * array_rand() - done
- * array_reverse()
- * array_search()
- * array_shift()
- * array_unshift()
+ * array_reverse() - done
+ * array_search() - done
+ * array_shift() - done
+ * array_unshift() - done
  * array_slice()
- * array_unique()
+ * array_unique() - done
  * array_values() - done
  * arsort() - done
  * asort() - done
  * count() - done
- * in_array()
+ * in_array() - done
  * krsort()
  * ksort()
- * reset()
+ * reset() - done
  * shuffle() - done
  * sizeof() - done
  * sort()
- *
+ * is_array() - done
  *
  */
 
