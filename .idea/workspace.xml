@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f362f050-ebc9-48b7-9b8a-63ba4a13c9f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/class-7/alamgir.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-7/golap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-7/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-7/masum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-7/motaleb.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-7/solutions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-6/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/class-6/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-8/hw.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-8/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sshConfigs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
-      <path value="$PROJECT_DIR$/../../wpriders/projects/mixed" />
+      <path value="$PROJECT_DIR$/../../WPRiders/projects/freiburgernachrichten" />
     </include_path>
   </component>
   <component name="ProjectId" id="1yqlQKELECOh3JBrk6FphZ5Hi0p" />
@@ -60,13 +62,14 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/class-8" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.php.frameworks" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/class-8" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/class-4" />
     </key>
@@ -86,7 +89,8 @@
       <workItem from="1633327874060" duration="8071000" />
       <workItem from="1633442489746" duration="3000" />
       <workItem from="1633588726738" duration="4855000" />
-      <workItem from="1633933908295" duration="3723000" />
+      <workItem from="1633933908295" duration="4208000" />
+      <workItem from="1634105565910" duration="5296000" />
     </task>
     <servers />
   </component>
@@ -106,6 +110,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WordPressConfiguration" enabled="true">
-    <wordpressPath>$PROJECT_DIR$/../../WPRiders/projects/mixed</wordpressPath>
+    <wordpressPath>$PROJECT_DIR$/../../WPRiders/projects/freiburgernachrichten</wordpressPath>
   </component>
 </project>

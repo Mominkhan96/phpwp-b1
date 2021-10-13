@@ -2,7 +2,7 @@
 <project version="4">
   <component name="PhpIncludePathManager">
     <include_path>
-      <path value="$PROJECT_DIR$/../../wpriders/projects/mixed" />
+      <path value="$PROJECT_DIR$/../../WPRiders/projects/freiburgernachrichten" />
     </include_path>
   </component>
   <component name="PhpRuntimeConfiguration">

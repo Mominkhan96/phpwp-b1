@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="PASSWORD" host="sftp.flywheelsites.com" id="e2a57df0-e8c1-4a37-b275-a09fb8c611e9" port="22" nameFormat="DESCRIPTIVE" username="mariusvetrici" />
-    </configs>
-  </component>
-</project>
