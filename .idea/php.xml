@@ -5,6 +5,9 @@
       <path value="$PROJECT_DIR$/../../WPRiders/projects/freiburgernachrichten" />
     </include_path>
   </component>
+  <component name="PhpProjectSharedConfiguration">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
   <component name="PhpRuntimeConfiguration">
     <extensions>
       <extension name="FFI" enabled="true" />
