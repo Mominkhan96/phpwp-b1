@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f362f050-ebc9-48b7-9b8a-63ba4a13c9f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/class-8/hw.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-8/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sshConfigs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-10/golap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-10/hw.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-10/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-10/khorshed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-10/masum/q-1-2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-10/masum/q-3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-10/naim.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-10/palash.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-10/solution-3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -62,9 +63,9 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/class-8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.php.frameworks" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -91,6 +92,7 @@
       <workItem from="1633588726738" duration="4855000" />
       <workItem from="1633933908295" duration="4208000" />
       <workItem from="1634105565910" duration="5296000" />
+      <workItem from="1634539686941" duration="5414000" />
     </task>
     <servers />
   </component>
