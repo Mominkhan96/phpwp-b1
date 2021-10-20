@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f362f050-ebc9-48b7-9b8a-63ba4a13c9f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/class-10/golap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-10/hw.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-10/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-10/khorshed.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-10/masum/q-1-2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-10/masum/q-3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-10/naim.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-10/palash.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-10/solution-3.php" afterDir="false" />
+    <list default="true" id="f362f050-ebc9-48b7-9b8a-63ba4a13c9f8" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/class-11/assets/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-11/form-handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-11/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-11/khorshed.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +18,13 @@
   </component>
   <component name="DrupalConfiguration">
     <drupalPath />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,7 +67,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -73,6 +75,10 @@
       <recent name="$PROJECT_DIR$/class-8" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/class-4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Courses\phpwp-b1\class-11\assets\js" />
+      <recent name="E:\Courses\phpwp-b1\class-11\assets" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -93,6 +99,8 @@
       <workItem from="1633933908295" duration="4208000" />
       <workItem from="1634105565910" duration="5296000" />
       <workItem from="1634539686941" duration="5915000" />
+      <workItem from="1634635751323" duration="892000" />
+      <workItem from="1634715366286" duration="4944000" />
     </task>
     <servers />
   </component>
