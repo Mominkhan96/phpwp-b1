@@ -15,9 +15,7 @@ if ($form_submitted == 'yes') {
 
     echo "EmailAddress: $email_address<br>";
     echo "Password: $password<br>";
-
 }
-
 
 ?>
 
