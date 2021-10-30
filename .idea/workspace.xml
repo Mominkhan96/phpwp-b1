@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f362f050-ebc9-48b7-9b8a-63ba4a13c9f8" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/class-14/db-connection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-14/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-14/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-15/db-connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-15/eanur.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-15/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class-13/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/class-13/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,18 +65,18 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/class-15" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Courses\phpwp-b1\class-15" />
       <recent name="E:\Courses\phpwp-b1" />
       <recent name="E:\Courses\phpwp-b1\class-13\js" />
       <recent name="$PROJECT_DIR$/class-8" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/class-4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Courses\phpwp-b1\class-11\assets\js" />
@@ -104,7 +105,9 @@
       <workItem from="1634715366286" duration="5687000" />
       <workItem from="1634971072727" duration="6005000" />
       <workItem from="1635144165969" duration="5591000" />
-      <workItem from="1635313575744" duration="7526000" />
+      <workItem from="1635313575744" duration="9213000" />
+      <workItem from="1635325126608" duration="3637000" />
+      <workItem from="1635570327478" duration="8314000" />
     </task>
     <servers />
   </component>

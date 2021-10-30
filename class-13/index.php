@@ -15,7 +15,6 @@ if ($form_submitted == 'yes') {
     $password = md5(isset($_POST['password']) ? $_POST['password'] : '');
     $phoneNumber = isset($_POST['phoneNumber']) ? $_POST['phoneNumber'] : '';
 
-
     echo 'Form submitted successfully!<br>';
 
     $sql_insert = "INSERT INTO students (full_name, email_address, password, phone_number)
